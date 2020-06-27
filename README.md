@@ -1,2 +1,2 @@
 # hello-world
-first year
+It's summer and coronavirus is still around.
